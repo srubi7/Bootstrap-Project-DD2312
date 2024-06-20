@@ -1,0 +1,38 @@
+.top {
+    color: blue;
+}
+
+.hero {
+    background-image: url("assets/positano.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+    margin-top: 40px;
+}
+
+.welcome{
+    margin-top: 80px;
+}
+
+.sub{
+    margin-top: 80px;
+}
+
+.cta{
+    margin-top: 80px;
+}
+
+.card {
+    margin-top: 80px;
+    padding: 10px;
+}
+
+#input1{
+    margin-left: 50px;
+    width: 200px;
+}
+
+label{
+    margin-left: 50px;
+}
+
